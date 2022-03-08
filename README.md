@@ -14,6 +14,13 @@ credit_risk_resampling_starter_code.ipynb and credit_risk_ensemble_starter_code.
 # Applications used:
 Jupyter Notebook 
 
+# Algorithms used:
+-Resampling Models
+-Ensemble Classifiers
+-SMOTEEN algorithm
+-Random Forest Classifier
+ SMOTE Algorithm
+
 
 ----------------------------
 # Use Resampling Models to Predict Credit Risk: 
