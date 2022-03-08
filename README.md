@@ -22,8 +22,8 @@ Evaluated three machine learning models by using resampling to determine which i
 <img width="818" alt="Screen Shot 2022-03-07 at 11 56 08 PM" src="https://user-images.githubusercontent.com/91306158/157191993-a4f6f803-e166-4e3a-807a-01c0af7db602.png">
 
 -Balanced accuracy score: 65%
--Precision high risk: 0.01%
--Precision low risk: 1%
+-high risk: 0.01%
+-low risk: 1%
 -recall high risk: 63%
 -recall low risk: 67%
 
